@@ -27,6 +27,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/68/c-sharp-800x800.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a>
 <a href="https://mui.com/?srsltid=AfmBOopNirxtgXmVu90TbxTBoBXBE37hDcWL-vIm8fyHswEwO4-0wz2B" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialui" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> </a>
 
 ### Core Focus Areas:
 - **AI and Machine Learning**: Developing intelligent systems and models to solve real-world problems using data. 🤖
